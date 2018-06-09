@@ -1,0 +1,5 @@
+﻿D:\engle\terrain\terrain\terrain\MarchingCubePixelShader.hlsl(76,23-46): warning X3206: 'mul': implicit truncation of vector type
+D:\engle\terrain\terrain\terrain\MarchingCubePixelShader.hlsl(76,9-47): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\engle\terrain\terrain\x64\Debug\MarchingCubePixelShader.cso
+  terrain.vcxproj -> D:\engle\terrain\terrain\x64\Debug\terrain.exe

@@ -1,0 +1,22 @@
+﻿  applicationclass.cpp
+  cameraclass.cpp
+  colorshaderclass.cpp
+  d3dclass.cpp
+  fontclass.cpp
+  fontshaderclass.cpp
+  fpsclass.cpp
+  inputclass.cpp
+  main.cpp
+  positionclass.cpp
+  shadermanagerclass.cpp
+  systemclass.cpp
+  terrainclass.cpp
+  textclass.cpp
+  textureclass.cpp
+  timerclass.cpp
+  useinterfaceclass.cpp
+  zoneclass.cpp
+  Generating code
+  All 365 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  terrain.vcxproj -> D:\engle\terrain\terrain\x64\Release\terrain.exe
