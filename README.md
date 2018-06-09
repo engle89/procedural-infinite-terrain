@@ -37,10 +37,10 @@ Between width-1 and width, there is an empty area. The solution is to have the c
 
 Before:
 
-![alt text](dubeg2hollow.png)
+![alt text](debug2hollow.png)
 
 After:
 
-![alt text](dubeg2soln.png)
+![alt text](debug2soln.png)
 
 
