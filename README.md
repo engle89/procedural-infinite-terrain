@@ -1,5 +1,5 @@
 # procedural-infinite-terrain
-Procedural infinite terrain implementation with:
+Procedural infinite terrain implementation using directx11 and:
 
 1.marching cube algorithm
 
